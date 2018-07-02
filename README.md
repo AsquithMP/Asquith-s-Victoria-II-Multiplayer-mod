@@ -3,4 +3,4 @@
 
 -Now try launching the game. The start screen appears, and you select "Asquith's Multiplayer Mod" in the left corner. Press start.
 
--See if the checksum is correct. It should be 3.04 . If you get a different checksum, restart the game.
+-See if the checksum is correct. It should be 3.04 LVUY. If you get a different checksum, restart the game.
